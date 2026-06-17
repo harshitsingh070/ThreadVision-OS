@@ -1,0 +1,16 @@
+# Build outputs
+out/
+*.jar
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs / temp
+*.log
+out_sources.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
